@@ -1,10 +1,10 @@
-import DogPics from './04-dog-pics/DogPics';
+import ScoreKeeper from './05-score-keeper/ScoreKeeper';
 import './App.css';
 
 export default function App() {
 	return (
 		<div className='App'>
-			<DogPics />
+			<ScoreKeeper />
 		</div>
 	);
 }
