@@ -1,10 +1,10 @@
-import FormValidator from './03-form-validation/FormValidator';
+import DogPics from './04-dog-pics/DogPics';
 import './App.css';
 
 export default function App() {
 	return (
 		<div className='App'>
-			<FormValidator />
+			<DogPics />
 		</div>
 	);
 }
