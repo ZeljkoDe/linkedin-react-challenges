@@ -1,10 +1,10 @@
-import ColorRenderer from './01-color-renderer/ColorRenderer';
+import DarkMode from './02-dark-mode/DarkMode';
 import './App.css';
 
 export default function App() {
 	return (
 		<div className='App'>
-			<ColorRenderer />
+			<DarkMode />
 		</div>
 	);
 }
