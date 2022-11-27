@@ -1,10 +1,10 @@
-import DarkMode from './02-dark-mode/DarkMode';
+import FormValidator from './03-form-validation/FormValidator';
 import './App.css';
 
 export default function App() {
 	return (
 		<div className='App'>
-			<DarkMode />
+			<FormValidator />
 		</div>
 	);
 }
